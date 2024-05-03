@@ -1,0 +1,1 @@
+print("Hey I am Srishti Gupta, and this is a python code.")
